@@ -1,0 +1,4 @@
+To run this please use the next command:
+java -jar apache-jmeter-5.5/bin/ApacheJMeter.jar -n -f -t jmeter/TestPlan.jmx -l jmeter/result.jtl -e -o jmeter/report
+
+where apache-jmeter-5.5/bin... is location to your Jmeter installed
